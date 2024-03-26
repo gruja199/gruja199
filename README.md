@@ -38,6 +38,9 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white"/>
 </p>
 <p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=go&logoColor=white">
+</p>
+<p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
@@ -59,6 +62,15 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
  
+</p>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white">
+</p>
+<p>
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?style=flat&logo=amazonaws">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=flat&logo=googlecloud&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-%230078D4?style=flat&logo=microsoftazure">
+  <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner-%23D50C2D?style=flat&logo=hetzner&logoColor=hetzner">
 </p>
 
 **Version Control used:**
